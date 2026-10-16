@@ -44,4 +44,4 @@ L’objectif est de fournir une représentation visuelle et pédagogique d’un 
 
 ## Licence
 
-Sauf indication contraire, ce projet est destiné à des fins éducatives et de démonstration. Consulter la licence du dépôt avant toute réutilisation ou redistribution du contenu.
+No License free to use 
